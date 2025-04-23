@@ -32,17 +32,10 @@ const About = () => {
             </ul>
             </small>
           </article>
-          <article className="about_card">
-            < BsTelephoneForward className="about_icon" />
-            <h5>Location</h5>
-            <small>
-             Address...
-             <li>City: ABC</li>
-            </small>
-          </article>
 
           <article className="about_card">
-            <  TfiWorld  className="about_icon" />
+          < BsTelephoneForward className="about_icon" />
+            
             <h5>Contact</h5>
             <small>
             <ul>
@@ -52,6 +45,17 @@ const About = () => {
             </ul>
             </small>
           </article>
+
+          <article className="about_card">
+          <  TfiWorld  className="about_icon" />
+            <h5>Location</h5>
+            <small>
+             Address...
+             <li>City: ABC</li>
+            </small>
+          </article>
+
+          
        </div>
 
        
