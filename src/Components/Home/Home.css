@@ -27,14 +27,17 @@ header{
   bottom: 3rem;
 }
 
-.social_icons::after{
+/* .social_icons::after{
   content: "";
   width: 1px;
   height: 2rem;
   background: var(--color-primary);
 
-}
+} */
 
+ .social_icons a{
+  font-size: 35px;
+ }
 .me{
   background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;

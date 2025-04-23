@@ -27,7 +27,7 @@ const About = () => {
             <h5>Degree</h5>
             <small>
             <ul>
-            <i> Masters in Computer Science</i>
+            <i> Maths and Computer Science</i>
            
             </ul>
             </small>
@@ -47,7 +47,8 @@ const About = () => {
             <small>
             <ul>
               <li>Phone: 1234567</li>
-              <li>Email: abc@gmail.com</li>
+              <li>Email: muhabdulla124
+                @gmail.com</li>
             </ul>
             </small>
           </article>

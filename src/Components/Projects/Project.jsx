@@ -44,6 +44,24 @@ const Project = () => {
         <article className="project_items">
           <div className="project_item_img">
             <img
+             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2biJm0vrvQzcY_HElVOhGJyrxfUsr_hCaVZxPuYqms4hfNAgetJ87xEThCme-X2XVcL0&usqp=CAU"
+            />
+          </div>
+          <h3>Obys Site</h3>
+          <small className="text-light"> GSAP,Locomotive,Three JS</small>
+          <div className="project_item_btn">
+          <a href="https://github.com/fatima498/Objs_site" class="btn">
+              GitHub
+            </a>
+            <a href="https://objs-site.vercel.app/" class="btn">
+              Live
+            </a>
+          </div>
+        </article>
+
+        <article className="project_items">
+          <div className="project_item_img">
+            <img
               src="https://www.digitalsilk.com/wp-content/uploads/2023/05/website-animation-hero-image.png"
               alt="me"
             />
@@ -116,6 +134,10 @@ const Project = () => {
             </a>
           </div>
         </article>
+
+
+        
+        
       </div>
     </section>
   );
